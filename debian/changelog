@@ -1,0 +1,11 @@
+ruby-minitest-global-expectations (1.0.1-2) unstable; urgency=medium
+
+  * Source-only upload.
+
+ -- Utkarsh Gupta <utkarsh@debian.org>  Thu, 09 Apr 2020 17:05:06 +0530
+
+ruby-minitest-global-expectations (1.0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #956051)
+
+ -- Utkarsh Gupta <utkarsh@debian.org>  Mon, 06 Apr 2020 23:21:25 +0530
